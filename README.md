@@ -4,3 +4,5 @@ Demo for learning purpose.
 Vaishnavi More
 # Teacher Name
 Shraddha Khapra
+# Friend
+Preeti
